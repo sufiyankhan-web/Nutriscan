@@ -1,0 +1,10 @@
+
+opencv-python
+easyocr
+google-generativeai
+python-dotenv
+pdfplumber
+numpy
+pillow
+torch
+torchvision
